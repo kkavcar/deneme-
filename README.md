@@ -1,3 +1,3 @@
 # deneme-
-Git ve Github öğrenem denemelerim.
+Git ve Github öğrenme denemelerim.
  
